@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "0ec8af2b254c7f7d60d1906d677c2580",
-"version.json": "d29a90ae83b6c31e655541175cc7e10e",
+const RESOURCES = {"flutter_bootstrap.js": "b2f98374ebb73f9d8530db5d9bad8b35",
+"version.json": "b24b3b236d64ebe61ac0cff16b0816ef",
 "index.html": "748891b80580b30220108351add22eb8",
 "/": "748891b80580b30220108351add22eb8",
-"main.dart.js": "515461500af58b4e0da21513451509aa",
+"main.dart.js": "81c771bc9ac155c982d5893a1d7ee4c9",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -28,7 +28,7 @@ const RESOURCES = {"flutter_bootstrap.js": "0ec8af2b254c7f7d60d1906d677c2580",
 "assets/lib/assets/icons/check_mark.png": "6ebd6bde1281f5fe321024ea66693019",
 "assets/lib/assets/fonts/Consolas.ttf": "53ce8c8840322a10f92c5828d3221e22",
 "assets/AssetManifest.bin": "4571d190aed24ba501bf2a0fec431b01",
-"assets/fonts/MaterialIcons-Regular.otf": "e24e0fc92d527cbc4e4d154fa7955f44",
+"assets/fonts/MaterialIcons-Regular.otf": "c36fa5b7b783cc4e3783bdf051dd7a57",
 "canvaskit/skwasm.js": "ac0f73826b925320a1e9b0d3fd7da61c",
 "canvaskit/skwasm.js.symbols": "96263e00e3c9bd9cd878ead867c04f3c",
 "canvaskit/canvaskit.js.symbols": "efc2cd87d1ff6c586b7d4c7083063a40",
