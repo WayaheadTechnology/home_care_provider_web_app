@@ -104618,7 +104618,7 @@ break}l=A
 s=3
 return A.m(p.rg(),$async$w1)
 case 3:l.N(d)
-o=A.b37("ws://api.ultimatecare.ai",A.V(["transports",A.b(["websocket"],t.s),"autoConnect",!1],t.N,t.z))
+o=A.b37("https://api.ultimatecare.ai",A.V(["transports",A.b(["websocket"],t.s),"autoConnect",!1],t.N,t.z))
 p.a=o
 n=new A.an($.ag,t.D)
 m=new A.bf(n,t.Q)
@@ -104681,7 +104681,7 @@ A.aqu.prototype={
 ou(){var s=0,r=A.r(t.H),q,p=this,o,n,m
 var $async$ou=A.n(function(a,b){if(a===1)return A.o(b,r)
 while(true)switch(s){case 0:if(p.c){s=1
-break}o=A.b37("ws://api.ultimatecare.ai",A.V(["transports",A.b(["websocket"],t.s),"autoConnect",!1],t.N,t.z))
+break}o=A.b37("https://api.ultimatecare.ai",A.V(["transports",A.b(["websocket"],t.s),"autoConnect",!1],t.N,t.z))
 p.a=o
 n=new A.an($.ag,t.D)
 m=new A.bf(n,t.Q)
