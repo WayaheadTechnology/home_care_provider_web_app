@@ -29476,7 +29476,7 @@ return A.p(null,r)}})
 return A.q($async$aTw,r)},
 aq6(a3){var s=0,r=A.r(t.ps),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2
 var $async$aq6=A.n(function(a4,a5){if(a4===1){o=a5
-s=p}while(true)switch(s){case 0:a="http://localhost"+("/notifications/provider/"+a3)
+s=p}while(true)switch(s){case 0:a="https://api.ultimatecare.ai"+("/notifications/provider/"+a3)
 a0=t.N
 a1=A.V(["Content-Type","application/json"],a0,a0)
 p=4
@@ -29525,7 +29525,7 @@ aq4:function aq4(){},
 aq7:function aq7(a){this.a=a},
 Hr(a){var s=0,r=A.r(t.hf),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c,b
 var $async$Hr=A.n(function(a0,a1){if(a0===1){o=a1
-s=p}while(true)switch(s){case 0:f="http://localhost"+("/order?providerID="+a)
+s=p}while(true)switch(s){case 0:f="https://api.ultimatecare.ai"+("/order?providerID="+a)
 e=t.N
 d=A.V(["Content-Type","application/json"],e,e)
 p=4
@@ -29585,7 +29585,7 @@ iP(a){return A.bdP(a)},
 bdP(a){var s=0,r=A.r(t.DE),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c
 var $async$iP=A.n(function(b,a0){if(b===1){o=a0
 s=p}while(true)switch(s){case 0:h=""+a
-g="http://localhost"+("/order/"+h)
+g="https://api.ultimatecare.ai"+("/order/"+h)
 f=t.N
 e=A.V(["Content-Type","application/json"],f,f)
 p=4
@@ -29646,7 +29646,7 @@ case 2:return A.o(o,r)}})
 return A.q($async$iP,r)},
 zz(a){var s=0,r=A.r(t.NZ),q,p=2,o,n,m,l,k,j,i,h,g,f
 var $async$zz=A.n(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:i="http://localhost"+("/order/"+a+"/appointment")
+s=p}while(true)switch(s){case 0:i="https://api.ultimatecare.ai"+("/order/"+a+"/appointment")
 h=t.N
 g=A.V(["Content-Type","application/json"],h,h)
 p=4
@@ -29680,7 +29680,7 @@ case 2:return A.o(o,r)}})
 return A.q($async$zz,r)},
 VV(a){var s=0,r=A.r(t.dU),q,p=2,o,n,m,l,k,j,i,h,g,f,e
 var $async$VV=A.n(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:h="http://localhost"+("/order/"+a+"/services")
+s=p}while(true)switch(s){case 0:h="https://api.ultimatecare.ai"+("/order/"+a+"/services")
 g=t.N
 f=A.V(["Content-Type","application/json"],g,g)
 p=4
@@ -29721,7 +29721,7 @@ case 2:return A.o(o,r)}})
 return A.q($async$VV,r)},
 VU(a){var s=0,r=A.r(t.u2),q,p=2,o,n,m,l,k,j,i,h,g,f
 var $async$VU=A.n(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:i="http://localhost"+("/address/"+a)
+s=p}while(true)switch(s){case 0:i="https://api.ultimatecare.ai"+("/address/"+a)
 h=t.N
 g=A.V(["Content-Type","application/json"],h,h)
 p=4
@@ -29752,7 +29752,7 @@ case 2:return A.o(o,r)}})
 return A.q($async$VU,r)},
 VT(a,b){var s=0,r=A.r(t.H),q=1,p,o,n,m,l,k,j,i,h
 var $async$VT=A.n(function(c,d){if(c===1){p=d
-s=q}while(true)switch(s){case 0:l="http://localhost"+("/order/"+a+"/accept")
+s=q}while(true)switch(s){case 0:l="https://api.ultimatecare.ai"+("/order/"+a+"/accept")
 k=t.N
 j=A.V(["Content-Type","application/json"],k,k)
 i=A.V(["providerId",b],k,t.z)
@@ -29778,7 +29778,7 @@ case 1:return A.o(p,r)}})
 return A.q($async$VT,r)},
 aqn(a){var s=0,r=A.r(t.H),q=1,p,o,n,m,l,k,j,i
 var $async$aqn=A.n(function(b,c){if(b===1){p=c
-s=q}while(true)switch(s){case 0:l="http://localhost"+("/order/"+a+"/declineEdit")
+s=q}while(true)switch(s){case 0:l="https://api.ultimatecare.ai"+("/order/"+a+"/declineEdit")
 k=t.N
 j=A.V(["Content-Type","application/json"],k,k)
 q=3
@@ -29803,7 +29803,7 @@ case 1:return A.o(p,r)}})
 return A.q($async$aqn,r)},
 aqt(a,b){var s=0,r=A.r(t.H),q=1,p,o,n,m,l,k,j,i
 var $async$aqt=A.n(function(c,d){if(c===1){p=d
-s=q}while(true)switch(s){case 0:l="http://localhost"+("/order/"+a+"/service/"+b+"/start")
+s=q}while(true)switch(s){case 0:l="https://api.ultimatecare.ai"+("/order/"+a+"/service/"+b+"/start")
 k=t.N
 j=A.V(["Content-Type","application/json"],k,k)
 q=3
@@ -29828,7 +29828,7 @@ case 1:return A.o(p,r)}})
 return A.q($async$aqt,r)},
 aqq(a,b){var s=0,r=A.r(t.H),q=1,p,o,n,m,l,k,j,i
 var $async$aqq=A.n(function(c,d){if(c===1){p=d
-s=q}while(true)switch(s){case 0:l="http://localhost"+("/order/"+a+"/service/"+b+"/finish")
+s=q}while(true)switch(s){case 0:l="https://api.ultimatecare.ai"+("/order/"+a+"/service/"+b+"/finish")
 k=t.N
 j=A.V(["Content-Type","application/json"],k,k)
 q=3
@@ -29853,7 +29853,7 @@ case 1:return A.o(p,r)}})
 return A.q($async$aqq,r)},
 aqm(a){var s=0,r=A.r(t.H),q=1,p,o,n,m,l,k,j,i
 var $async$aqm=A.n(function(b,c){if(b===1){p=c
-s=q}while(true)switch(s){case 0:l="http://localhost"+("/order/"+a+"/complete")
+s=q}while(true)switch(s){case 0:l="https://api.ultimatecare.ai"+("/order/"+a+"/complete")
 k=t.N
 j=A.V(["Content-Type","application/json"],k,k)
 q=3
@@ -29878,7 +29878,7 @@ case 1:return A.o(p,r)}})
 return A.q($async$aqm,r)},
 aqo(a){var s=0,r=A.r(t.H),q=1,p,o,n,m,l,k,j,i
 var $async$aqo=A.n(function(b,c){if(b===1){p=c
-s=q}while(true)switch(s){case 0:l="http://localhost"+("/order/"+a+"/decline")
+s=q}while(true)switch(s){case 0:l="https://api.ultimatecare.ai"+("/order/"+a+"/decline")
 k=t.N
 j=A.V(["Content-Type","application/json"],k,k)
 q=3
@@ -29905,7 +29905,7 @@ bdO(a){var s=A.bee(a),r=A.a5(s).i("ae<1,dL>")
 return A.Z(new A.ae(s,new A.aqp(),r),!0,r.i("aB.E"))},
 aqr(a){var s=0,r=A.r(t.rL),q,p=2,o,n,m,l,k,j,i,h,g,f
 var $async$aqr=A.n(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:i="http://localhost"+("/order/"+a+"/arrivalTime")
+s=p}while(true)switch(s){case 0:i="https://api.ultimatecare.ai"+("/order/"+a+"/arrivalTime")
 h=t.N
 g=A.V(["Content-Type","application/json"],h,h)
 p=4
@@ -33533,7 +33533,7 @@ case 5:h.gcg()
 s=6
 return A.m(A.bdo("file",h.gcg(),h.b),$async$tU)
 case 6:o=e
-case 4:n=A.bdp("POST",A.bi("http://localhost/documents/upload",0,null))
+case 4:n=A.bdp("POST",A.bi("https://api.ultimatecare.ai/documents/upload",0,null))
 n.r.n(0,"Content-Type","multipart/form-data")
 n.y.push(o)
 j=n.x
@@ -33557,7 +33557,7 @@ return A.q($async$tU,r)},
 EQ(a,b){var s=0,r=A.r(t.H),q=1,p,o,n,m,l,k,j,i,h,g
 var $async$EQ=A.n(function(c,d){if(c===1){p=d
 s=q}while(true)switch(s){case 0:A.N("Linking document")
-o="http://localhost"+("/provider/"+b+"/linkFile")
+o="https://api.ultimatecare.ai"+("/provider/"+b+"/linkFile")
 i=t.N
 n=A.V(["Content-Type","application/json"],i,i)
 m=A.V(["evidence_document_id",a],i,t.z)
@@ -33587,7 +33587,7 @@ adY(a){return A.bb3(a)},
 bb3(a){var s=0,r=A.r(t.NI),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c,b
 var $async$adY=A.n(function(a0,a1){if(a0===1){o=a1
 s=p}while(true)switch(s){case 0:f=""+a
-e="http://localhost"+("/provider/"+f+"/files")
+e="https://api.ultimatecare.ai"+("/provider/"+f+"/files")
 d=t.N
 c=A.V(["Content-Type","application/json"],d,d)
 p=4
@@ -33644,7 +33644,7 @@ bc5(a){if(a==null||a.length===0)return"Must Select one"
 return null},
 arR(a){var s=0,r=A.r(t.bo),q,p=2,o,n,m,l,k,j,i,h,g
 var $async$arR=A.n(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:k="http://localhost/provider"
+s=p}while(true)switch(s){case 0:k="https://api.ultimatecare.ai/provider"
 j=a.vm()
 i=t.N
 h=A.V(["Content-Type","application/json"],i,i)
@@ -33678,7 +33678,7 @@ I3(a){var s=0,r=A.r(t.H),q=1,p,o,n,m,l,k,j,i,h
 var $async$I3=A.n(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:i=a.f
 i===$&&A.a()
-o="http://localhost"+("/provider/"+i)
+o="https://api.ultimatecare.ai"+("/provider/"+i)
 n=a.vm()
 i=t.N
 m=A.V(["Content-Type","application/json"],i,i)
@@ -33705,7 +33705,7 @@ case 1:return A.o(p,r)}})
 return A.q($async$I3,r)},
 arN(a3,a4){var s=0,r=A.r(t.u2),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2
 var $async$arN=A.n(function(a5,a6){if(a5===1){o=a6
-s=p}while(true)switch(s){case 0:a0="http://localhost/address"
+s=p}while(true)switch(s){case 0:a0="https://api.ultimatecare.ai/address"
 a1=a3.b
 a1===$&&A.a()
 j=a3.c
@@ -33756,7 +33756,7 @@ case 2:return A.o(o,r)}})
 return A.q($async$arN,r)},
 as0(a,b){var s=0,r=A.r(t.H),q=1,p,o,n,m,l,k,j,i,h
 var $async$as0=A.n(function(c,d){if(c===1){p=d
-s=q}while(true)switch(s){case 0:l="http://localhost"+("/provider/"+b+"/traits")
+s=q}while(true)switch(s){case 0:l="https://api.ultimatecare.ai"+("/provider/"+b+"/traits")
 k=t.N
 j=A.V(["does_not_smoke",a.a,"cpr_and_first_aid_trained",a.b,"has_own_transportation",a.c,"college_degree",a.d,"experience_operating_a_hoyer_lift",a.e,"experience_with_alzheimers_and_dementia",a.f,"comfortable_with_pets",a.r,"covid_vaccinated",a.w],k,t.z)
 i=A.V(["Content-Type","application/json"],k,k)
@@ -33782,7 +33782,7 @@ case 1:return A.o(p,r)}})
 return A.q($async$as0,r)},
 arO(a,b,c){var s=0,r=A.r(t.bo),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d
 var $async$arO=A.n(function(a0,a1){if(a0===1){o=a1
-s=p}while(true)switch(s){case 0:h="http://localhost/provider/availability"
+s=p}while(true)switch(s){case 0:h="https://api.ultimatecare.ai/provider/availability"
 g=t.N
 f=A.V(["provider_user_id",c.b,"day_of_week",c.c,"end_time",c.e,"start_time",c.d,"is_reocurring",c.f],g,t.z)
 e=c.a
@@ -33822,7 +33822,7 @@ case 2:return A.o(o,r)}})
 return A.q($async$arO,r)},
 arP(a,b){var s=0,r=A.r(t.H),q=1,p,o,n,m,l,k,j,i,h
 var $async$arP=A.n(function(c,d){if(c===1){p=d
-s=q}while(true)switch(s){case 0:k="http://localhost/provider/education"
+s=q}while(true)switch(s){case 0:k="https://api.ultimatecare.ai/provider/education"
 j=t.N
 i=A.V(["institution_name",a.a,"education_level",a.b],j,t.z)
 J.jf(i,"provider_user_id",b)
@@ -33850,7 +33850,7 @@ case 1:return A.o(p,r)}})
 return A.q($async$arP,r)},
 WD(a,b){var s=0,r=A.r(t.H),q=1,p,o,n,m,l,k,j,i,h
 var $async$WD=A.n(function(c,d){if(c===1){p=d
-s=q}while(true)switch(s){case 0:k="http://localhost/provider/qualification"
+s=q}while(true)switch(s){case 0:k="https://api.ultimatecare.ai/provider/qualification"
 j=t.N
 i=A.V(["qualification_name",a.a,"institution_name",a.b],j,t.z)
 J.jf(i,"provider_user_id",b)
@@ -33878,7 +33878,7 @@ case 1:return A.o(p,r)}})
 return A.q($async$WD,r)},
 arQ(a,b){var s=0,r=A.r(t.H),q=1,p,o,n,m,l,k,j,i,h
 var $async$arQ=A.n(function(c,d){if(c===1){p=d
-s=q}while(true)switch(s){case 0:l="http://localhost"+("/provider/"+b+"/services")
+s=q}while(true)switch(s){case 0:l="https://api.ultimatecare.ai"+("/provider/"+b+"/services")
 k=a
 j=t.N
 i=A.V(["Content-Type","application/json"],j,j)
@@ -33905,7 +33905,7 @@ case 1:return A.o(p,r)}})
 return A.q($async$arQ,r)},
 arZ(a){var s=0,r=A.r(t.fz),q,p=2,o,n,m,l,k,j,i,h,g,f
 var $async$arZ=A.n(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:i="http://localhost"+("/provider/fb/"+a)
+s=p}while(true)switch(s){case 0:i="https://api.ultimatecare.ai"+("/provider/fb/"+a)
 h=t.N
 g=A.V(["Content-Type","application/json"],h,h)
 p=4
@@ -33941,7 +33941,7 @@ case 2:return A.o(o,r)}})
 return A.q($async$arZ,r)},
 I2(a){var s=0,r=A.r(t.jk),q,p=2,o,n,m,l,k,j,i,h,g,f
 var $async$I2=A.n(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:i="http://localhost"+("/users/"+a)
+s=p}while(true)switch(s){case 0:i="https://api.ultimatecare.ai"+("/users/"+a)
 h=t.N
 g=A.V(["Content-Type","application/json"],h,h)
 p=4
@@ -33980,7 +33980,7 @@ case 2:return A.o(o,r)}})
 return A.q($async$I2,r)},
 arT(a2){var s=0,r=A.r(t.He),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1
 var $async$arT=A.n(function(a3,a4){if(a3===1){o=a4
-s=p}while(true)switch(s){case 0:b="http://localhost"+("/provider/"+a2+"/availability")
+s=p}while(true)switch(s){case 0:b="https://api.ultimatecare.ai"+("/provider/"+a2+"/availability")
 a=t.N
 a0=A.V(["Content-Type","application/json"],a,a)
 p=4
@@ -34023,7 +34023,7 @@ case 2:return A.o(o,r)}})
 return A.q($async$arT,r)},
 arU(a1){var s=0,r=A.r(t.GG),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0
 var $async$arU=A.n(function(a2,a3){if(a2===1){o=a3
-s=p}while(true)switch(s){case 0:c="http://localhost"+("/provider/"+a1+"/category_price")
+s=p}while(true)switch(s){case 0:c="https://api.ultimatecare.ai"+("/provider/"+a1+"/category_price")
 b=t.N
 a=A.V(["Content-Type","application/json"],b,b)
 p=4
@@ -34068,7 +34068,7 @@ case 2:return A.o(o,r)}})
 return A.q($async$arU,r)},
 arW(){var s=0,r=A.r(t.LI),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c
 var $async$arW=A.n(function(a,b){if(a===1){o=b
-s=p}while(true)switch(s){case 0:f="http://localhost/mentor/"
+s=p}while(true)switch(s){case 0:f="https://api.ultimatecare.ai/mentor/"
 e=t.N
 d=A.V(["Content-Type","application/json"],e,e)
 p=4
@@ -34107,7 +34107,7 @@ case 2:return A.o(o,r)}})
 return A.q($async$arW,r)},
 as_(a,b){var s=0,r=A.r(t.H),q=1,p,o,n,m,l,k,j,i,h
 var $async$as_=A.n(function(c,d){if(c===1){p=d
-s=q}while(true)switch(s){case 0:l="http://localhost"+("/provider/"+b+"/mentor/")
+s=q}while(true)switch(s){case 0:l="https://api.ultimatecare.ai"+("/provider/"+b+"/mentor/")
 k=t.N
 j=A.V(["mentor_org_id",a],k,t.z)
 i=A.V(["Content-Type","application/json"],k,k)
@@ -34136,7 +34136,7 @@ case 1:return A.o(p,r)}})
 return A.q($async$as_,r)},
 arS(a){var s=0,r=A.r(t.H),q=1,p,o,n,m,l,k,j,i
 var $async$arS=A.n(function(b,c){if(b===1){p=c
-s=q}while(true)switch(s){case 0:l="http://localhost"+("/provider/"+a)
+s=q}while(true)switch(s){case 0:l="https://api.ultimatecare.ai"+("/provider/"+a)
 k=t.N
 j=A.V(["Content-Type","application/json"],k,k)
 q=3
@@ -34164,7 +34164,7 @@ arV(a){return A.bet(a)},
 bet(a){var s=0,r=A.r(t.A),q,p=2,o,n,m,l,k,j,i,h,g
 var $async$arV=A.n(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
-n="http://localhost"+("/provider/"+a+"/link_stripe")
+n="https://api.ultimatecare.ai"+("/provider/"+a+"/link_stripe")
 i=t.N
 m=A.V(["Content-Type","application/json"],i,i)
 s=7
@@ -34197,7 +34197,7 @@ case 2:return A.o(o,r)}})
 return A.q($async$arV,r)},
 WE(a,b){var s=0,r=A.r(t.H),q=1,p,o,n,m,l,k,j,i,h
 var $async$WE=A.n(function(c,d){if(c===1){p=d
-s=q}while(true)switch(s){case 0:l="http://localhost"+("/provider/"+b)
+s=q}while(true)switch(s){case 0:l="https://api.ultimatecare.ai"+("/provider/"+b)
 k=t.N
 j=A.V(["device_token",a],k,t.z)
 i=A.V(["Content-Type","application/json"],k,k)
@@ -34226,7 +34226,7 @@ arY(a){return A.bev(a)},
 bev(a){var s=0,r=A.r(t.oa),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c
 var $async$arY=A.n(function(b,a0){if(b===1){o=a0
 s=p}while(true)switch(s){case 0:p=4
-n="http://localhost"+("/provider/"+a+"/training")
+n="https://api.ultimatecare.ai"+("/provider/"+a+"/training")
 f=t.N
 m=A.V(["Content-Type","application/json"],f,f)
 s=7
@@ -34268,7 +34268,7 @@ arX(a){return A.beu(a)},
 beu(a){var s=0,r=A.r(t.i),q,p=2,o,n,m,l,k,j,i,h,g
 var $async$arX=A.n(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
-n="http://localhost"+("/provider/"+a+"/revenue")
+n="https://api.ultimatecare.ai"+("/provider/"+a+"/revenue")
 i=t.N
 m=A.V(["Content-Type","application/json"],i,i)
 s=7
@@ -34303,7 +34303,7 @@ Yl(){var s=0,r=A.r(t.dU),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c
 var $async$Yl=A.n(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:h=J.c6(0,t.yM)
 g=h
-f="http://localhost/service"
+f="https://api.ultimatecare.ai/service"
 e=t.N
 d=A.V(["Content-Type","application/json"],e,e)
 p=4
@@ -34337,7 +34337,7 @@ awt(a){var s=0,r=A.r(t.dU),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c
 var $async$awt=A.n(function(b,a0){if(b===1){o=a0
 s=p}while(true)switch(s){case 0:h=J.c6(0,t.yM)
 g=h
-f="http://localhost"+("/provider/"+a+"/services")
+f="https://api.ultimatecare.ai"+("/provider/"+a+"/services")
 e=t.N
 d=A.V(["Content-Type","application/json"],e,e)
 p=4
@@ -34369,7 +34369,7 @@ case 2:return A.o(o,r)}})
 return A.q($async$awt,r)},
 awr(a,b){var s=0,r=A.r(t.H),q=1,p,o,n,m,l,k,j,i,h
 var $async$awr=A.n(function(c,d){if(c===1){p=d
-s=q}while(true)switch(s){case 0:l="http://localhost"+("/provider/"+a+"/services")
+s=q}while(true)switch(s){case 0:l="https://api.ultimatecare.ai"+("/provider/"+a+"/services")
 k=t.N
 j=A.V(["Content-Type","application/json"],k,k)
 i=A.V(["service_id",b],k,t.z)
@@ -34395,7 +34395,7 @@ return A.q($async$awr,r)},
 awq(a,b){return A.bfr(a,b)},
 bfr(a,b){var s=0,r=A.r(t.H),q=1,p,o,n,m,l,k,j,i
 var $async$awq=A.n(function(c,d){if(c===1){p=d
-s=q}while(true)switch(s){case 0:l="http://localhost"+("/provider/"+a+"/services")
+s=q}while(true)switch(s){case 0:l="https://api.ultimatecare.ai"+("/provider/"+a+"/services")
 k=t.N
 j=A.V(["Content-Type","application/json"],k,k)
 q=3
@@ -34421,7 +34421,7 @@ aws(){var s=0,r=A.r(t.v1),q,p=2,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1
 var $async$aws=A.n(function(a2,a3){if(a2===1){o=a3
 s=p}while(true)switch(s){case 0:d=J.c6(0,t.up)
 c=d
-b="http://localhost/service/categories"
+b="https://api.ultimatecare.ai/service/categories"
 a=t.N
 a0=A.V(["Content-Type","application/json"],a,a)
 p=4
@@ -101645,7 +101645,7 @@ A.FO.prototype={
 S(){return new A.a2v()}}
 A.a2v.prototype={
 G(a){$.a_.b=A.ac(a,null,t.w).w.a
-return new A.zi($.aWa(),"Ultimate Care Provider",$.b8I(),!0,null)}}
+return new A.zi($.aWa(),"Ultimate Care Provider",$.b8I(),!1,null)}}
 A.aQT.prototype={
 $1(a){var s
 A.N("Firebase auth state refreshed")
@@ -104530,7 +104530,7 @@ F9(){var s=0,r=A.r(t.H),q=this
 var $async$F9=A.n(function(a,b){if(a===1)return A.o(b,r)
 while(true)switch(s){case 0:s=2
 return A.m(q.a.lw(B.V9),$async$F9)
-case 2:A.N("\ud83d\udd12 Firebase Auth persistence set to NONE (Debug)")
+case 2:A.N("\ud83d\udd12 Firebase Auth persistence set to LOCAL (Release)")
 return A.p(null,r)}})
 return A.q($async$F9,r)},
 gOA(){if(this.a.gl1()==null)return!1
@@ -104618,7 +104618,7 @@ break}l=A
 s=3
 return A.m(p.rg(),$async$w1)
 case 3:l.N(d)
-o=A.b37("http://localhost",A.V(["transports",A.b(["websocket"],t.s),"autoConnect",!1],t.N,t.z))
+o=A.b37("ws://api.ultimatecare.ai",A.V(["transports",A.b(["websocket"],t.s),"autoConnect",!1],t.N,t.z))
 p.a=o
 n=new A.an($.ag,t.D)
 m=new A.bf(n,t.Q)
@@ -104681,7 +104681,7 @@ A.aqu.prototype={
 ou(){var s=0,r=A.r(t.H),q,p=this,o,n,m
 var $async$ou=A.n(function(a,b){if(a===1)return A.o(b,r)
 while(true)switch(s){case 0:if(p.c){s=1
-break}o=A.b37("http://localhost",A.V(["transports",A.b(["websocket"],t.s),"autoConnect",!1],t.N,t.z))
+break}o=A.b37("ws://api.ultimatecare.ai",A.V(["transports",A.b(["websocket"],t.s),"autoConnect",!1],t.N,t.z))
 p.a=o
 n=new A.an($.ag,t.D)
 m=new A.bf(n,t.Q)
@@ -118268,7 +118268,7 @@ B.bo=new A.zG(2,"cubic")
 B.c_=new A.Wa(0,"nonZero")
 B.V7=new A.Wa(1,"evenOdd")
 B.V8=new A.aqT(0,"none")
-B.V9=new A.aqW(2,"NONE")
+B.V9=new A.aqW(0,"LOCAL")
 B.Va=new A.HF(null,A.a4("HF<j0,hv>"))
 B.AW=new A.qN(0,"baseline")
 B.AX=new A.qN(1,"aboveBaseline")
